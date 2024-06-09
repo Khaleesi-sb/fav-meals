@@ -25,7 +25,7 @@ Fav Meals is a Flutter application that allows users to explore a variety of cat
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/fav_meals.git
+    git clone https://github.com/Khaleesi-sb/fav-meals.git
     cd fav_meals
     ```
 
